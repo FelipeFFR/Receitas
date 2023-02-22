@@ -2,3 +2,10 @@ a {
     text-decoration: none;
     color: green
 }
+
+#receitas
+{
+    margin-left: 60px;
+    margin-right: 60px;
+    border: solid;
+}
