@@ -1,0 +1,11 @@
+.darkLight-mode {
+    background-color: black;
+    color: white;
+}
+
+#button-darkmode {
+    float: right;
+    all: unset;
+    cursor: pointer;
+    outline: revert;
+}
