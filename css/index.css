@@ -3,6 +3,13 @@ a {
     color: green
 }
 
+a:hover {
+    text-decoration: none;
+    color: red
+}
+
+
+
 #receitas
 {
     margin-left: 60px;

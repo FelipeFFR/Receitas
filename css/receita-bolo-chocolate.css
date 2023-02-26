@@ -11,6 +11,12 @@
     border: solid;
 }
 
+#back-button:hover{
+    background-color: red;
+    color: white;
+    border-color: white;
+}
+
 #subtitle {
     text-align: center;
     color: red;
